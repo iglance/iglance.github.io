@@ -1,0 +1,79 @@
+ /* FONTS */
+@font-face {
+    font-family: main_font;
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+body {
+    /* font-family: main_font; */
+    font-family: "helvetica neue";
+	background-color: #EBF3FF;
+	color: #333333;
+}
+
+.home--big_download-button{
+	border-radius: 5px;
+	-webkit-box-shadow: 5px 10px 33px 0px rgba(107,255,54,0.89); 
+	box-shadow: 5px 10px 33px 0px rgba(107,255,54,0.89);
+	background: #21BC27;
+	background: -moz-linear-gradient(top, #21BC27 0%, #069D0C 100%);
+	background: -webkit-linear-gradient(top, #21BC27 0%, #069D0C 100%);
+	background: linear-gradient(to bottom, #21BC27 0%, #069D0C 100%);
+}
+
+.link-input-box{
+	width: 30em;
+	margin: 0 auto;
+}
+
+.link-input{
+	font-family: monospace;
+}
+
+.home__copy-button{
+	background-color: #ecf3ff;
+}
+
+.container {
+	display: flex;
+	margin: 0 auto;
+	flex-wrap: wrap;
+}
+
+.left-half {
+	background-color: #ff9e2c;
+	flex: 1;
+	padding: 1rem;
+}
+
+.right-half {
+	background-color: #b6701e;
+	flex: 1;
+	padding: 1rem;
+}
+
+
+.home__definition {
+	width: 1080px !important;
+	margin: 0 auto;
+}
+
+.home__content-width{
+	width: 1080px;
+}
+
+.home__features-block>div {
+	flex: 0 50%;
+}
+
+.langue-box span{
+	border: .15em solid transparent;
+	padding: 0px .2em;
+	border-radius: .25em;
+}
+
+.active-langue span, .langue-box span:hover, .langue-box span:active{
+	border: .15em solid #333333;
+}
+
+.footer-box{}

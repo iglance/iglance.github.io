@@ -41,6 +41,7 @@ iGlance is a free and open source macOS System Monitor. It displays current stat
 - [Oskar Groth](https://github.com/OskarGroth) for providing his [AppMover](https://github.com/OskarGroth/AppMover) framework
 - [Sindre Sorhus](https://github.com/sindresorhus) for providing his [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) library
 - [Edward Battistini](https://github.com/edwardbattistini) for providing a new logo and updated assets giving iGlance a more modern look
+- Facebook for making their [device mockups](https://facebook.design/devices) publicly available for the design community
 - And of course all the other [contributors](https://github.com/iglance/iGlance/graphs/contributors)
 
 ## License

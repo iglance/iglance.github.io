@@ -13,7 +13,7 @@ excerpt: "iGlance is a free and open source macOS System Monitor"
 - Install iGlance using [brew](https://brew.sh/):
 
     ```bash
-    brew cask install iglance
+    brew install --cask iglance
     ```
 
 ---
